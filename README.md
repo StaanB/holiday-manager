@@ -169,7 +169,7 @@ To install and run this project locally, follow these steps:
 <br/>
 <br/>
 
-<h3><a href="https://github.com/your-github-account/holiday-manager/blob/main/LICENSE">⚖️LICENSE</a></h3>
+<h3><a href="https://github.com/StaanB/holiday-manager/blob/main/LICENSE">⚖️LICENSE</a></h3>
 
 <br/>   
 <br/> 
