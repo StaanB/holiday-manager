@@ -84,7 +84,7 @@ To install and run this project locally, follow these steps:
 
 ### 💡Features
 ---
-- [x] Create, view, edit, and delete vacation plans.
+- [x] Create, view, filter, edit, and delete vacation plans.
 - [x] Display vacation plans with titles, descriptions, dates, locations, and participants.
 - [x] Generate PDF/print mode for vacation plans.
 - [x] Client-side form validation for input fields.
