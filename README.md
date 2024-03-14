@@ -58,6 +58,8 @@ To install and run this project locally, follow these steps:
     ```
 
 5.  Open your browser and go to http://localhost:3000 (or another local server) to access Holiday Manager.
+   
+6.  Please note if you use the local application it may not be possible to see the data as the API is configured to only receive the Vercel database, to see the complete application visit the website 👉 <a href="https://holiday-manager.vercel.app/">here</a>
 <br/>   
 <br/>
 
